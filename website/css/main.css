@@ -1,0 +1,16 @@
+/* Developer: Bryan castro, IS117-102, Spring 2024*/
+.carousel {
+    width:auto;
+    height:auto;
+}
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: aliceblue;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    font-size: 0.5rem;
+}
